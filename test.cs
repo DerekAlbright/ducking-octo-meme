@@ -11,4 +11,8 @@ namespace test
 			string lastName;
 		}
 	}
+
+	class master
+		{
+		}
 }
