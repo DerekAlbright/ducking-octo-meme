@@ -9,6 +9,8 @@ namespace test
 
 			string firstName;
 			string lastName;
+
+			string newFeature;
 		}
 	}
 }
