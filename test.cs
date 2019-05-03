@@ -6,6 +6,7 @@ namespace test
 	{
 		static Main(string[] args)
 		{
+
 		}
 	}
 }
