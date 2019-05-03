@@ -9,6 +9,7 @@ this will be a conflict
 
 i will need to stash this change
 
+new conflict local
 
 # This is a heading
 
