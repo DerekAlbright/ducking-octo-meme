@@ -7,6 +7,8 @@ namespace test
 		static Main(string[] args)
 		{
 
+			string firstName;
+			string lastName;
 		}
 	}
 }
